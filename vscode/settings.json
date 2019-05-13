@@ -1,0 +1,51 @@
+{
+    "editor.fontFamily": "FiraMonaco, Monaco",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "off",
+    "editor.renderWhitespace": "none",
+    "editor.formatOnSave": false,
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true
+    },
+    "emojisense.languages": {
+        "markdown": true,
+        "html": true,
+        "plaintext": {
+            "markupCompletionsEnabled": false,
+            "emojiDecoratorsEnabled": false
+        },
+        "git-commit": true,
+        "javascript": true
+    },
+    "browserSync.config": {
+        "browser": [
+            "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox",
+            "chrome"
+        ]
+    },
+    "python.pythonPath": "/Users/shandou/anaconda/envs/tensorflow/bin/python",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorTheme": "Monokai Dimmed",
+}
