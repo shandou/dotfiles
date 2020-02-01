@@ -1,0 +1,15 @@
+name: pyprob
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arrow
+  - pandas
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - seaborn
+  - scipy
+  - pyqt
+  - qtconsole
+  - black
+  - flake8
